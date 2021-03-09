@@ -103,6 +103,7 @@ public class BinaryTree {
 				// delete whole tree
 				case (8)  :  {
 					node = null;
+					lastUsedIndex=0;
 					break;
 				}
 				
